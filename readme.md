@@ -30,6 +30,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/rahulvr29/Course-website.git
 
-- Live Site URL:
+- Live Site URL: https://superb-gaufre-ffe1e0.netlify.app/

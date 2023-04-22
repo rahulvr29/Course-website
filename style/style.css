@@ -299,7 +299,7 @@ hr{
 }
 .social-icons img{
   display: block;
-  width: 20px;
+  width: 30px;
   margin: 0 auto 20px;
   cursor: pointer;
 }
@@ -334,8 +334,8 @@ hr{
 }
 .social-icons img{
   
-  width: 14px;
-  margin: 15px auto;
+  width: 20px;
+  margin: 20px auto;
 }
 .about-left-col, .about-right-col{
   flex-basis: 100%;
